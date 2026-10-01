@@ -1,0 +1,23 @@
+# Dependencies
+fcs-frontend/node_modules/
+fcs-backend/node_modules/
+
+# Frontend build output
+fcs-frontend/build/
+
+# Environment and local secrets
+fcs-backend/.env
+*.local
+
+# Runtime data and generated media
+fcs-backend/data/users.json
+fcs-backend/data/feedback.json
+fcs-backend/data/sessions/
+fcs-backend/uploads/
+fcs-backend/processed/
+
+# Logs and OS files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.DS_Store

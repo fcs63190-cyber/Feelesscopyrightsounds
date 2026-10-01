@@ -1,0 +1,18 @@
+[
+  {
+    "id": "e89bebf9-32d8-4bbe-b540-00076675094c",
+    "title": "Aurora Frequency",
+    "artist": "Zenith Bloom",
+    "genre": "Cyberpunk",
+    "duration": "2:32",
+    "bpm": "128",
+    "trackKey": "F# Minor",
+    "releaseDate": "7/1/2026",
+    "downloads": 20,
+    "audioUrl": "/uploads/1782905397123-ec5cd162-c4ca-49e9-af7f-f75e57434783.mp3",
+    "cover": "/uploads/1787657801076-e8d09fc6-f617-4ab0-b535-71734616dd5c.png",
+    "createdAt": "2026-07-01T11:29:57.905Z",
+    "youtubeUrl": "",
+    "updatedAt": "2026-08-25T11:36:41.152Z"
+  }
+]
